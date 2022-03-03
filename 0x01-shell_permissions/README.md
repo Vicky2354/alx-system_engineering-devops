@@ -1,0 +1,2 @@
+my shell permission  script 
+
